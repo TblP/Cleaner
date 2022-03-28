@@ -1,0 +1,11 @@
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.AssemblyReference.cache
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.SuggestedBindingRedirects.cache
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
+C:\Users\vczyp\source\repos\WindowsService\WindowsService\obj\Debug\WindowsService.Service.resources
